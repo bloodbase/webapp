@@ -1,6 +1,6 @@
 # Bloodbase
 
-This is the [Bloodbase](https://app.farmz2u.com) Web Application. .
+This is the [Bloodbase](https://app.farmz2u.com) Web Application.
 
 The app deploys by GitlabCI on:
 
@@ -40,3 +40,11 @@ To learn more about the technologies used on this project, take a look at the fo
 * [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 * [Docker](https://docs.docker.com/get-started/) - learn about Docker.
 * [Tailwind](https://tailwindcss.com/docs/) - learn about Tailwind.
+
+## Support
+
+Please [open an issue](https://github.com/bloodbase/webapp/issues/new) for support.
+
+## Contributing
+
+Please contribute using [Gitlab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html). Create a branch, add commits, and [open a pull request](https://github.com/bloodbase/webapp/compare/).
